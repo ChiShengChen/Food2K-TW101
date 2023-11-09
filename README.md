@@ -11,3 +11,9 @@
 |  FOOD2K-TW   |  PRENet-ResNet50  |   ongoing | ongoing |
 |     FOOD2K-TW     |    VGG16      |  ongoing  | ongoing |
 |    FOOD2K-TW     |     Inception V4     |    ongoing      | ongoing |
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
