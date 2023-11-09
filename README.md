@@ -1,7 +1,7 @@
 # Food2K-TW101
 
 | Database | Model | Top-1 ACC | Top-5 ACC |
-| :---------: | :--------: | :--------: |
+| :---------: | :--------: | :--------: | :--------: |
 | FOOD2K | PRENet-ResNet50 | 83.03 | 97.21 |   
 | FOOD2K | VGG16 | 78.96 | 95.26 |
 | FOOD2K | Inception V4 | 82.02 | 96.45 |
@@ -13,7 +13,3 @@
 | FOOD2K-TW | Inception V4 | ongoing | ongoing |
 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
