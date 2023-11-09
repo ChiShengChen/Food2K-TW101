@@ -9,7 +9,7 @@
 | Taiwanese Food-101 | VGG16 | 67.65 | 89.33 |
 | Taiwanese Food-101 | Inception V4 | 92.14 | 99.01 |
 | FOOD2K-TW | PRENet-ResNet50 | `ongoing` | `ongoing` |
-| FOOD2K-TW | VGG16 | `ongoing` | `ongoing |
-| FOOD2K-TW | Inception V4 | `ongoing | `ongoing` |
+| FOOD2K-TW | VGG16 | `ongoing` | `ongoing` |
+| FOOD2K-TW | Inception V4 | `ongoing` | `ongoing` |
 
 
