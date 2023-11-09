@@ -1,6 +1,6 @@
 # Food2K-TW101
 
-|Database|Model|Top-1 ACC|Top-5 ACC|
+| Database | Model | Top-1 ACC | Top-5 ACC |
 |:---------:|:--------:|:--------:|
 |  FOOD2K   |  PRENet-ResNet50  |  83.03  |  97.21  |   
 |  FOOD2K     |   VGG16       |     78.96     | 95.26 |
