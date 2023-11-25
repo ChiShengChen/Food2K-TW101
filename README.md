@@ -10,7 +10,6 @@
 | Taiwanese Food-101 | efficient ViT_MIT | 82.32 | 95.78 |
 | Taiwanese Food-101 | VGG16 | 67.65 | 89.33 |
 | FOOD2K-TW | PRENet-ResNet50 | `ongoing` | `ongoing` |
-| FOOD2K-TW | VGG16 | `ongoing` | `ongoing` |
 | FOOD2K-TW | Inception V4 | 81.43 | 96.28 |
-
+| FOOD2K-TW | VGG16 | `ongoing` | `ongoing` |
 
