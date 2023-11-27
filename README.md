@@ -7,6 +7,7 @@
 | FOOD2K | VGG16 | 78.96 | 95.26 |
 | Taiwanese Food-101 | PRENet-ResNet50 | 92.75 | 98.93 |
 | Taiwanese Food-101 | Inception V4 | 92.14 | 99.01 |
+| Taiwanese Food-101 | efficientNetv3 Large | 84.89 | 96.40 |
 | Taiwanese Food-101 | efficient ViT_MIT | 82.32 | 95.78 |
 | Taiwanese Food-101 | RepViT_m2.3 | 76.53 | 93.80 |
 | Taiwanese Food-101 | RepViT_m0.9 | 75.01 | 93.49 |
