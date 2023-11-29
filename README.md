@@ -21,7 +21,7 @@
 ## Do not trainable
 | Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Taiwanese Food-101  | convnextv2_huge.fcmae_ft_in1k | 15 | AdamW | 1.02 | 0.99 |  On imagenet-1k | `ongoing` |
+| Taiwanese Food-101  | convnextv2_huge.fcmae_ft_in1k | 15 | AdamW | 1.02 | 0.99 |  On imagenet-1k | Normal |
 
 ## Augmentation type
 | Type | Detail |
