@@ -1,12 +1,12 @@
 # Food2K-TW101
 
-| Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
+| Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | FOOD2K | PRENet-ResNet50 | N/A | `ongoing` | 83.03 | 97.21 | `ongoing` | `ongoing` |
 | FOOD2K | Inception V4 | N/A | `ongoing` | 82.02 | 96.45 | `ongoing` | `ongoing` |
 | FOOD2K | VGG16 | N/A | `ongoing` | 78.96 | 95.26 | `ongoing` | `ongoing` |
 
-| Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
+| Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 95.15 | 99.52 | On imagenet-1k | Basic |
 | Taiwanese Food-101 | PRENet-ResNet50 | N/A | SGD | 92.75 | 98.93 | `ongoing` | Basic |
@@ -18,7 +18,7 @@
 | Taiwanese Food-101 | VGG16 | N/A | `ongoing` |  67.65 | 89.33 | On imagenet-1k | Basic |
 | Taiwanese Food-101 | mobileViT v2 | 100 | AdamW | 54.12 | 83.98 | On imagenet-1k | Basic |
 
-| Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
+| Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | FOOD2K-TW | PRENet-ResNet50 | N/A | `ongoing` | `ongoing` | `ongoing` | `ongoing` | `ongoing` |
 | FOOD2K-TW | Inception V4 | 100 | SGD | 81.43 | 96.28 | On imagenet-1k | Basic |
@@ -26,7 +26,7 @@
 
 
 ## Do not trainable
-| Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
+| Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Taiwanese Food-101  | convnextv2_huge.fcmae_ft_in1k | 15 | AdamW | 1.02 | 0.99 |  On imagenet-1k | Normal |
 
