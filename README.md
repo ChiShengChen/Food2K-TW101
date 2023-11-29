@@ -1,4 +1,5 @@
 # Food2K-TW101
+All the accuracy (ACC) are the trained models do inference on un-seen validation data, not the training accuracy.
 
 | Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
