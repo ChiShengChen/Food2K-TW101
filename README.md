@@ -25,5 +25,5 @@
 
 ## Augmentation type
 | Type | Detail |
-| :---------: | :--------: |
+| :---------: | :-------- |
 | Normal | RandomHorizontalFlip(p=0.5) <br> + RandomRotation(degrees=15) <br> + ColorJitter(brightness=0.126, saturation=0.5) <br> + Resize((550, 550)) <br> + RandomCrop(448)|
