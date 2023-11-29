@@ -8,7 +8,7 @@
 
 | Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 95.09 | 99.41 | On imagenet-1k | Basic |
+| Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 95.15 | 99.52 | On imagenet-1k | Basic |
 | Taiwanese Food-101 | PRENet-ResNet50 | N/A | SGD | 92.75 | 98.93 | `ongoing` | Basic |
 | Taiwanese Food-101 | Inception V4 | 100 | SGD | 92.14 | 99.01 | On imagenet-1k | Basic |
 | Taiwanese Food-101 | efficientNetv3 Large |100 | AdamW | 84.89 | 96.40 | On imagenet-1k | Basic |
