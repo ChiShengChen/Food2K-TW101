@@ -266,8 +266,8 @@ def train(model, train_loader, val_loader, criterion, optimizer, scheduler, num_
               .format(epoch+1, num_epochs, train_loss, train_acc, val_loss, val_acc))
     
     # Save the final trained model
-    torch.save(model.state_dict(), '/home/meow/my_data_disk_5T/food_classification/TaiwaneseFood101/Taiwanese Food 101/final_model_inceptionv4.pth')
-    print("Model have saved in /home/meow/my_data_disk_5T/food_classification/TaiwaneseFood101/Taiwanese Food 101/final_model_inceptionv4.pth !")
+    torch.save(model.state_dict(), '/home/meow/my_data_disk_5T/food_classification/TaiwaneseFood101/Taiwanese Food 101/final_model_mobilevitv2.pth')
+    print("Model have saved in /home/meow/my_data_disk_5T/food_classification/TaiwaneseFood101/Taiwanese Food 101/final_model_mobilevitv2.pth !")
 
 
 image_path = "/home/meow/my_data_disk_5T/food_classification/TaiwaneseFood101/Taiwanese Food 101/images/"
