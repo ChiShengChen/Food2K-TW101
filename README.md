@@ -10,18 +10,18 @@
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 95.15 | 99.52 | On imagenet-1k | Basic |
 | Taiwanese Food-101 | PRENet-ResNet50 | N/A | SGD | 92.75 | 98.93 | `ongoing` | Basic |
-| Taiwanese Food-101 | Inception V4 | 100 | SGD | 92.14 | 99.01 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | efficientNetv3 Large |100 | AdamW | 84.89 | 96.40 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | efficient ViT_MIT | 100 | AdamW | 82.32 | 95.78 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | RepViT_m2.3 | 100 | AdamW |  76.53 | 93.80 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | RepViT_m0.9 | 100 | AdamW |  75.01 | 93.49 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | VGG16 | N/A | `ongoing` |  67.65 | 89.33 | On imagenet-1k | Basic |
-| Taiwanese Food-101 | mobileViT v2 | 100 | AdamW | 54.12 | 83.98 | On imagenet-1k | Basic |
+| Taiwanese Food-101 | Inception V4 | 100 | SGD | 92.14 | 99.01 | imagenet-1k | Basic |
+| Taiwanese Food-101 | efficientNetv3 Large |100 | AdamW | 84.89 | 96.40 | imagenet-1k | Basic |
+| Taiwanese Food-101 | efficient ViT_MIT | 100 | AdamW | 82.32 | 95.78 | imagenet-1k | Basic |
+| Taiwanese Food-101 | RepViT_m2.3 | 100 | AdamW |  76.53 | 93.80 | imagenet-1k | Basic |
+| Taiwanese Food-101 | RepViT_m0.9 | 100 | AdamW |  75.01 | 93.49 | imagenet-1k | Basic |
+| Taiwanese Food-101 | VGG16 | N/A | `ongoing` |  67.65 | 89.33 | imagenet-1k | Basic |
+| Taiwanese Food-101 | mobileViT v2 | 100 | AdamW | 54.12 | 83.98 | imagenet-1k | Basic |
 
 | Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | FOOD2K-TW | PRENet-ResNet50 | N/A | `ongoing` | `ongoing` | `ongoing` | `ongoing` | `ongoing` |
-| FOOD2K-TW | Inception V4 | 100 | SGD | 81.43 | 96.28 | On imagenet-1k | Basic |
+| FOOD2K-TW | Inception V4 | 100 | SGD | 81.43 | 96.28 | imagenet-1k | Basic |
 | FOOD2K-TW | VGG16 | N/A | `ongoing` | `ongoing` | `ongoing` | `ongoing` | `ongoing` |
 
 
