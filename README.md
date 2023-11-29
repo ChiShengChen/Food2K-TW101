@@ -17,3 +17,13 @@
 | FOOD2K-TW | Inception V4 | 100 | SGD | 81.43 | 96.28 | On imagenet-1k | `ongoing` |
 | FOOD2K-TW | VGG16 | N/A | `ongoing` | `ongoing` | `ongoing` | `ongoing` | `ongoing` |
 
+
+## Do not trainable
+| Database | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
+| :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Taiwanese Food-101  | convnextv2_huge.fcmae_ft_in1k | 15 | AdamW | 1.02 | 0.99 |  On imagenet-1k | `ongoing` |
+
+## Augmentation type
+| Type | Detail |
+| :---------: | :--------: |
+| Normal | RandomHorizontalFlip(p=0.5) <br> + RandomRotation(degrees=15) <br> + ColorJitter(brightness=0.126, saturation=0.5) <br> + Resize((550, 550)) <br> + RandomCrop(448)|
