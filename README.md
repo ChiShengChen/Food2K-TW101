@@ -10,8 +10,9 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 | Dataset | Model | Epochs | Optimizer | Top-1 ACC | Top-5 ACC | Pretrain | Augmentation type |
 | :---------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 95.15 | 99.52 | imagenet-1k | Basic |
+| Taiwanese Food-101 | PRENet-ResNet50 | 100 | SGD | 94.59 | 99.49 | food2K | Basic |
 | Taiwanese Food-101 | PVTv2-B2-Linear | 100 | AdamW | 94.51 | 99.45 | imagenet-1k | Basic |
-| Taiwanese Food-101 | PRENet-ResNet50 | N/A | SGD | 92.75 | 98.93 | food2K | Basic |
+| Taiwanese Food-101 | ResNet50 | 100 | AdamW | 93.96 | 99.58 | imagenet-1k | Basic |
 | Taiwanese Food-101 | Inception V4 | 100 | SGD | 92.14 | 99.01 | imagenet-1k | Basic |
 | Taiwanese Food-101 | mobileViT v2 | 100 | AdamW | 89.98 | 98.46 | imagenet-1k | Basic |
 | Taiwanese Food-101 | efficientNetv3 Large |100 | AdamW | 84.89 | 96.40 | imagenet-1k | Basic |
