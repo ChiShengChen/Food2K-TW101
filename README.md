@@ -51,7 +51,7 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 | ChineseFoodNet | 208/192,000 | [paper](https://arxiv.org/abs/1705.02743) | [dataset](https://sites.google.com/view/chinesefoodnet/) | [Link is dead, email didnot response](https://sites.google.com/view/chinesefoodnet/) |
 | Sushi-50 | 50/3,963 | [paper](https://arxiv.org/abs/2207.03692) | [dataset](https://github.com/Jianing-Qiu/PARNet/tree/main/data) | Yes |
 | ISIA Food-500 | 500/399,726 | [paper](https://arxiv.org/abs/2008.05655) | [dataset](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) | Yes |
-| Food2K | 2,000/1,036,564 | [paper](https://arxiv.org/abs/2103.16107) | [dataset](http://123.57.42.89/FoodProject.html) | Need to email, but only has classification label with no category detail. |
+| Food2K | 2,000/1,036,564 | [paper](https://arxiv.org/abs/2103.16107) | [dataset](http://123.57.42.89/FoodProject.html) | Need to email. Yes |
 
 
 
