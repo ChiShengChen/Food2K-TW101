@@ -62,3 +62,4 @@ https://universe.roboflow.com/search?q=class%3Adumpling
 https://universe.roboflow.com/search?q=class%253Apork&p=1
 https://ieeexplore.ieee.org/document/9214438
 https://www.researchgate.net/publication/372133738_Deep_Learning_for_Food_Image_Recognition_and_Nutrition_Analysis_Towards_Chronic_Diseases_Monitoring_A_Systematic_Review
+https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22111NYPI0294006%22.&searchmode=basic
