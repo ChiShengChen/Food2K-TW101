@@ -15,6 +15,7 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 | Taiwanese Food-101 | ConvNeXtv2_nano | 100 | AdamW | 94.04 | 99.29 | imagenet-1k | Basic |
 | Taiwanese Food-101 | ResNet50 | 100 | AdamW | 93.96 | 99.58 | imagenet-1k | Basic |
 | Taiwanese Food-101 | ConvNeXtv2_femto | 100 | AdamW | 93.21 | 99.19 | imagenet-1k | Basic |
+| Taiwanese Food-101 | MobileFormer_508M | 100 | AdamW | 93.01 | 99.25 | imagenet-1k | Basic |
 | Taiwanese Food-101 | Inception V4 | 100 | SGD | 92.14 | 99.01 | imagenet-1k | Basic |
 | Taiwanese Food-101 | mobilenetv3_large_100 | 100 | AdamW | 91.66 | 98.97 | imagenet-1k | Basic |
 | Taiwanese Food-101 | mobileViT v2 | 100 | AdamW | 89.98 | 98.46 | imagenet-1k | Basic |
