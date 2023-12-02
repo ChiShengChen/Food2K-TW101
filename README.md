@@ -39,5 +39,19 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 | :---------: | :--------: |
 | Basic | RandomHorizontalFlip(p=0.5) <br> + RandomRotation(degrees=15) <br> + ColorJitter(brightness=0.126, saturation=0.5) <br> + Resize((550, 550)) <br> + RandomCrop(448)|
 
+
+## To-Do List
+| Dataset | Classes/Images | paper | Data Aviliable? |
+| :---------: | :--------: | :--------: | :--------: |
+| UEC Food256 | 256/25,088 | http://foodcam.mobi/taskcv2014.pdf | `ongoing` |
+| ETH Food-101 | 101/101,000 | https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/ | `ongoing` |
+| Vireo Food-172 | 172/110,241 | https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/sis_research/article/7501/&path_info=2964284.2964315.pdf | `ongoing` |
+| Food524DB | 524/247,636 |  | `ongoing` |
+| ChineseFoodNet | 208/192,000 | | `ongoing` |
+| Sushi-50 | 50/3,963 | | `ongoing` |
+| ISIA Food-500 | | | `ongoing` |
+
+
+
 ## To-Play List
 https://arxiv.org/abs/2301.10936
