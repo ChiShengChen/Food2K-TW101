@@ -47,6 +47,7 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 ## To-Do List
 | Dataset | Classes/Images | paper | dataset | Data Aviliable? |
 | :---------: | :--------: | :--------: | :--------: | :--------: |
+| Taiwanese-Food-101 | 101/20,200 | N/A (only master Thesis) | [dataset](https://drive.google.com/drive/folders/1wOdqes1KzEzp4DPG5jO8kHbFwcCmjzjh) | Yes |
 | UEC Food256 | 256/25,088 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-16199-0_1) | [dataset](http://foodcam.mobi/dataset256.html) | Yes |
 | ETH Food-101 | 101/101,000 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-10599-4_29) | [dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) | Yes |
 | Vireo Food-172 | 172/110,241 | [paper](https://dl.acm.org/doi/10.1145/2964284.2964315) | [dataset](https://fvl.fudan.edu.cn/dataset/vireofood172/list.htm) | Need to email |
@@ -57,7 +58,7 @@ All the accuracy (ACC) are the trained models do inference on un-seen validation
 | ISIA Food-500 | 500/399,726 | [paper](https://arxiv.org/abs/2008.05655) | [dataset](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) | Yes |
 | Food2K | 2,000/1,036,564 | [paper](https://arxiv.org/abs/2103.16107) | [dataset](http://123.57.42.89/FoodProject.html) | Need to email. Yes |
 
-[TaiwanneseFood101](https://github.com/106368015AlvinYang/Taiwanese-Food-101)
+[TaiwaneseFood101](https://github.com/106368015AlvinYang/Taiwanese-Food-101)
 
 ## To-Play List
 https://arxiv.org/abs/2301.10936
