@@ -1,0 +1,15 @@
+batchsize: 8
+num_class: 241
+image_path: "/home/meow/my_data_disk_5T/food_classification/CNFOOD-241/train600x600/"
+train_path: "/home/meow/my_data_disk_5T/food_classification/CNFOOD-241/train.txt"
+test_path: "/home/meow/my_data_disk_5T/food_classification/CNFOOD-241/test.txt"
+
+model_name: "prenet"
+weight_path: "pretrained_models/food2k_resnet50_0.0001.pth"
+store_name: "prenet_cn241"
+
+learning_rate: 0.0001
+epoch: 1
+
+is_test: false
+use_pretrained: false
